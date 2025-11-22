@@ -51,12 +51,14 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AGHusky0611&hide_title=false&hide_rank=true&show_icons=false&include_all_commits=false&count_private=false&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&order=1&custom_title=Statistics" height="50" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AGHusky0611&hide_title=false&hide_rank=true&show_icons=false&include_all_commits=false&count_private=false&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&order=1&custom_title=Statistics" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AGHusky0611&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=true&order=2&custom_title=test" height="250" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=AGHusky0611&locale=en&mode=weekly&theme=codeSTACKr&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
+
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AGHusky0611/AGHusky0611/output/pacman-contribution-graph-dark.svg">
